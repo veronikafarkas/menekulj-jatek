@@ -1,5 +1,6 @@
 # menekulj-jatek
 C#/.NET beadandóm, teszteléssel, dokumentációval. A játékos/üldöző ikonjai a véletlen műve, hogy pacman lett, tudom, hogy az a játék nem így néz ki.:) 
+.zip fileban elérhető csak egyelőre.
 
 Beadandó leírása:
 Készítsünk programot, amellyel a következő játékot játszhatjuk. Adott egy 𝑛 × 𝑛
